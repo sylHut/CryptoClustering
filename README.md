@@ -7,7 +7,7 @@ In this challenge, Python and unsupervised learning techniques were used to pred
 
 2. Find the best value for k-means by using the original data
 ![elbow_curve](Images/elbow_curve.png)
-The best value for k when using the original data is 4.
+The best value for k when using the original data: 4
 
 3. Cluster the cryptocurrencies with K-means using the original scaled data
 ![market_scaled_plot](Images/market_scaled_plot.png)
@@ -17,7 +17,7 @@ The best value for k when using the original data is 4.
 
 5. Find the best value for k by using the PCA data
 ![elbow_curve_pca](Images/elbow_curve_pca.png)
-The best value for k when using the PCA data is 4.
+The best value for k when using the PCA data is: 4
 
 6. Cluster the cryptocurrencies with k-means using the PCA data
 ![market_pca_plot](Images/market_pca_plot.png)
