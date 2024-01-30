@@ -2,8 +2,7 @@
 In this challenge, Python and unsupervised learning techniques were used to predict if cryptocurrencies are affected by 24-hour or 7-day price changes.
 
 # Libraries and Dependencies Used
-* **Libraries:** Pandas, hvplot and NumPy
-* **Dependencies** sklearn for KMeans, PCA and StandardScaler
+* Pandas, hvplot, NumPy and sklearn for KMeans, PCA and StandardScaler
 
 # Steps
 1. View Market Data
